@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Painting and Drawing",
+    "photo": "https://locationre.com.au/wp-content/uploads/2019/10/location-real-estate-blog-art-for-all-ages-in-the-sutherland-shire-banner.jpeg",
+    "description": "A collection of painting and drawing artworks, showcasing various techniques and styles. Each piece is created with meticulous attention to detail, resulting in captivating and expressive visual narratives."
+  },
+  {
+    "id": 2,
+    "title": "Mountain View Canvas",
+    "photo": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/e30db3112090263.600e73132bb21.jpeg",
+    "description": "A picturesque mountain landscape captured on canvas, portraying the majestic beauty of nature's vistas. This artwork invites viewers to immerse themselves in the serene and awe-inspiring mountain scenery."
+  },
+  {
+    "id": 3,
+    "title": "Pencil Sketch Portrait",
+    "photo": "https://i2.wp.com/paintingvalley.com/sketches/pencil-sketch-scenery-29.jpg",
+    "description": "An intricately detailed pencil sketch capturing the essence of a person's portrait. Each stroke of the pencil brings out the subject's unique features, resulting in a lifelike and evocative representation."
+  },
+  {
+    "id": 4,
+    "title": "Animal Watercolor Portrait",
+    "photo": "https://m.media-amazon.com/images/I/71u3Ut0dacL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A vibrant watercolor portrait of an animal, rendered with fluid brushstrokes and rich hues. This artwork captures the spirit and personality of the subject, creating a captivating and lively depiction."
+  },
+  {
+    "id": 5,
+    "title": "Abstract Oil Painting",
+    "photo": "https://pbs.twimg.com/profile_banners/733017418461765633/1602867139/1500x500",
+    "description": "An expressive abstract oil painting that explores the interplay of color, form, and texture. Through bold brushstrokes and dynamic compositions, this artwork invites viewers to interpret and engage with its visual complexity."
+  },
+  {
+    "id": 6,
+    "title": "Superhero Cartoon",
+    "photo": "https://wallpapers.com/images/high/captain-america-superhero-landscape-movie-poster-hyrhawy16px2inku.webp",
+    "description": "A dynamic and vibrant cartoon illustration featuring a superhero in action. This design captures the excitement and energy of the superhero genre, with bold lines and vivid colors bringing the character to life. Whether for comics, animation, or merchandise, this superhero cartoon design is sure to captivate audiences of all ages."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "image": "https://w.forfun.com/fetch/2e/2eb940f0c2ae8519bed10c40dd6e9d03.jpeg",
+    "subcategory_Name": "Landscape Painting",
+    "short_description": "A mesmerizing portrayal of natural vistas, inviting viewers to immerse in serene scenery."
+  },
+  {
+    "_id": 2,
+    "image": "https://3.bp.blogspot.com/-PImcwJw0jSk/VldqFlDAOyI/AAAAAAAAobo/KBkSdiIvVKs/s1600/12%2BEmma%2BWatson.jpg",
+    "subcategory_Name": "Portrait Drawing",
+    "short_description": "An eloquent portrait, skillfully crafted to convey both likeness and profound emotion."
+  },
+  {
+    "_id": 3,
+    "image": "https://cdn.shopify.com/s/files/1/0380/6078/5803/files/how-to-frame-watercolour-art_2048x2048.jpg?v=1682815186",
+    "subcategory_Name": "Watercolour Painting",
+    "short_description": "Brilliant hues blending seamlessly, evoking a sense of fluidity and grace."
+  },
+  {
+    "_id": 4,
+    "image": "https://cdn.shopify.com/s/files/1/0407/9117/9431/products/81gWja7a65L._AC_SL1200_1024x1024.jpg?v=1594044579",
+    "subcategory_Name": "Oil Painting",
+    "short_description": "Textured canvases bursting with vibrant hues, capturing timeless beauty in rich, velvety tones."
+  },
+  {
+    "_id": 5,
+    "image": "https://tamburlaineart.com/cdn/shop/products/IMG_0027_1024x1024.jpg?v=1616434308",
+    "subcategory_Name": "Charcoal Sketching",
+    "short_description": "Dramatic contrasts of light and shadow, captured with bold, expressive strokes."
+  },
+  {
+    "_id": 6,
+    "image": "https://imgs4.freeup.app/400x400/dd071952e6ada4f6e5c828dc0677e1a4.jpg",
+    "subcategory_Name": "Cartoon Drawing",
+    "short_description": "Playful and lively characters leaping from the page, brimming with charm and personality."
+  }
+]
